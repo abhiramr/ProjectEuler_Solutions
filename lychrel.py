@@ -1,3 +1,5 @@
+#PROBLEM NUMBER 55
+#NUMBER OF LYCHREL NUMBERS < 10000
 import sys
 
 #a=int(input())
