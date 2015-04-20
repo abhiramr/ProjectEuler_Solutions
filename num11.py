@@ -1,6 +1,6 @@
 #11th problem in Project Euler
 import numpy
-p=numpy.recfromtxt("/Users/aramesh/Desktop/numbers.txt")
+p=numpy.recfromtxt("./numbers.txt")
 a=[]
 b=[]
 c=[]
