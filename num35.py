@@ -1,3 +1,4 @@
+# 2 minutes 3 seconds
 import math
 def getCircular(n):
     p=n

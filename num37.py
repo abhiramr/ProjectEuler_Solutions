@@ -1,3 +1,4 @@
+# 1 minute 40 seconds
 import math
 def truncateLtoR(n,li):
     m=str(n)

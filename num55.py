@@ -1,5 +1,6 @@
 #PROBLEM NUMBER 55
 #NUMBER OF LYCHREL NUMBERS < 10000
+#0.824 seconds
 import sys
 
 #a=int(input())
