@@ -1,3 +1,5 @@
+#1 min 43 seconds
+#Problem number 39
 import itertools
 
 li=range(1,1001)
