@@ -1,4 +1,4 @@
-fh=open("/Users/aramesh/Desktop/names.txt")
+fh=open("./names.txt")
 red=fh.read()
 redl=red.split(",")
 redl.sort()
