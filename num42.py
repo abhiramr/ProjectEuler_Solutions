@@ -1,7 +1,7 @@
 from enum import Enum
 from string import maketrans
 alphabets=Enum('A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z')
-f=open('/Users/aramesh/Desktop/wordsz.txt','r')
+f=open('./wordsz.txt','r')
 li=[]
 for l in f.readlines():
     li.append(l.strip().split(","))
