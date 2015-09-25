@@ -1,3 +1,4 @@
+#1 min 30 seconds
 #41 seconds
 #PROBLEM NUMBER 14
 #LONGEST COLLATZ SEQUENCE
