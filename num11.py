@@ -1,7 +1,7 @@
 #11th problem in Project Euler
-
+#0.6 seconds
 import numpy
-p=numpy.recfromtxt("./numbers.txt")
+p=numpy.recfromtxt("./Files/numbers.txt")
 a=[]
 b=[]
 c=[]
@@ -39,4 +39,4 @@ maxes.append(max(a))
 maxes.append(max(c))
 maxes.append(max(e))
 maxes.append(max(g))
-print max(maxes)
+print(max(maxes))
