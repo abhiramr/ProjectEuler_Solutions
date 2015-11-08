@@ -1,6 +1,10 @@
 #105 seconds
-Problem number 87
+#Problem number 87
 from math import sqrt
+import sys
+import itertools
+sys.path.insert(0,"./Misc/MathUtils/")
+import miller_rabin_prime
 def is_prime(n):
     for i in range(2,int(sqrt(n)+1)):
         if n%i ==0:
@@ -14,7 +18,7 @@ for i in range(tc):
     cubes=[]
     quads=[]
     for i in range(2,int(sqrt(n)+1)):
-        if is_prime(i):
+        if miller_rabin_prime.is_prime(i):
             sqrs.append(i**2)
             cubes.append(i**3)
             quads.append(i**4)
