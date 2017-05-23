@@ -8,6 +8,6 @@ I've begun logging code fairly recently and I need to rewrite the code for the r
 Rest assured, going forward, I will be logging each and every one of my solutions.
 
 Update - May 23 2017
-Current status on ProjectEuler - 42 problems solved. 
+Current status on ProjectEuler - 43 problems solved. 
 
-Current code status on Github  - 19 problems logged with code.
+Current code status on Github  - 20 problems logged with code.
