@@ -4,7 +4,7 @@ Happy solving and contributing! :)
 
 Rules for contribution - 
 
-    Add your name and the number of problems you've contributed in the README.MD file below the existing content under "Contributors". Keep incrementing the number as and when you add more solutions. 
+ -- Add your name and the number of problems you've contributed in the README.MD file below the existing content under "Contributors". Keep incrementing the number as and when you add more solutions. 
     
-    Additionally, each solution should follow the existing pattern - num<problem_num_perProjectEulerArchives>.(py|ipynb)
+ -- Additionally, each solution should follow the existing pattern - num<problem_num_perProjectEulerArchives>.(py|ipynb)
 
