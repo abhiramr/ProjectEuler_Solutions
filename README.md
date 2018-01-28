@@ -7,7 +7,7 @@ I've begun logging code fairly recently and I need to rewrite the code for the r
 
 Rest assured, going forward, I will be logging each and every one of my solutions.
 
-Update - May 28 2017
+Update - Jan 29 2018
 Current status on ProjectEuler - 45 problems solved. 
 
 Current code status on Github  - 22 problems logged with code.
