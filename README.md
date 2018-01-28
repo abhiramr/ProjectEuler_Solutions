@@ -8,9 +8,9 @@ I've begun logging code fairly recently and I need to rewrite the code for the r
 Rest assured, going forward, I will be logging each and every one of my solutions.
 
 Update - May 28 2017
-Current status on ProjectEuler - 44 problems solved. 
+Current status on ProjectEuler - 45 problems solved. 
 
-Current code status on Github  - 21 problems logged with code.
+Current code status on Github  - 22 problems logged with code.
 
 Want to contribute? Check this out - https://github.com/abhiii5459/ProjectEuler-Abhi/blob/master/CONTRIBUTING.md
 
