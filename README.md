@@ -12,8 +12,5 @@ Current status on ProjectEuler - 45 problems solved.
 
 Current code status on Github  - 22 problems logged with code.
 
-Want to contribute? Check this out - https://github.com/abhiii5459/ProjectEuler-Abhi/blob/master/CONTRIBUTING.md
-
-== Contributors ==
-
+Want to contribute? Check this out - https://github.com/abhiramr/ProjectEuler-Abhi/blob/master/CONTRIBUTING.md
 
