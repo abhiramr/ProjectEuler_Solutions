@@ -1,4 +1,4 @@
-This is a repo to log all the Py code I write in order to solve ProjectEuler.net problems.
+This is a repo to log all the Python and R code I write in order to solve ProjectEuler.net problems.
 
 Techniques used - Some math formulae. Many Brute-force (Elegance required? One time thing ille?)
 
@@ -12,8 +12,5 @@ Current status on ProjectEuler - 45 problems solved.
 
 Current code status on Github  - 22 problems logged with code.
 
-Want to contribute? Check this out - https://github.com/abhiii5459/ProjectEuler-Abhi/blob/master/CONTRIBUTING.md
-
-== Contributors ==
-
+Want to contribute? Check this out - https://github.com/abhiramr/ProjectEuler-Abhi/blob/master/CONTRIBUTING.md
 
