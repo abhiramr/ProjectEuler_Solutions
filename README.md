@@ -1,4 +1,4 @@
-This is a repo to log all the Py code I write in order to solve ProjectEuler.net problems.
+This is a repo to log all the Python and R code I write in order to solve ProjectEuler.net problems.
 
 Techniques used - Some math formulae. Many Brute-force (Elegance required? One time thing ille?)
 
