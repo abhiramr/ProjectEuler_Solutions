@@ -4,6 +4,6 @@
  
 # What is the total of all the name scores in the file?
 def worth(name): return sum(ord(letter) - ord('A') + 1 for letter in name)
-names = open('../../Files/names.txt').read().replace('"', '').split(',')
+names = open('../../Data/names.txt').read().replace('"', '').split(',')
 names.sort()
 print(sum((i+1) * worth(names[i]) for i in range(0, len(names))))

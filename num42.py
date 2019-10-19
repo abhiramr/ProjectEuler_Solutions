@@ -1,7 +1,10 @@
 from enum import Enum
 from string import maketrans
-alphabets=Enum('A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z')
-f=open('./Files/wordsz.txt','r')
+
+alpha_list = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
+alphabets = [ord(char) - 65 for char in alpha_list]
+
+f=open('./Data/wordsz.txt','r')
 li=[]
 for l in f.readlines():
     li.append(l.strip().split(","))
@@ -22,13 +25,15 @@ while momo<=mama:
     momo=momo+1
 
 dicc={}
-for i in alphabets:
-    dicc[i.key]=i.index+1
+for i in alpha_list:
+    dicc[i]=alphabets[i]+1
 
+print(dicc)
 sums=[]
 for la in li3:
     sum1=0
     for lo in la:
+        print lo, dicc[lo]
         sum1=sum1+dicc[lo]
     sums.append(sum1)
 

@@ -1,7 +1,7 @@
 #11th problem in Project Euler
 #0.6 seconds
 import numpy
-p=numpy.recfromtxt("./Files/numbers.txt")
+p=numpy.recfromtxt("./Data/numbers.txt")
 a=[]
 b=[]
 c=[]
