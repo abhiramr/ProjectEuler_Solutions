@@ -1,7 +1,7 @@
 #2.67 seconds
 import sys
 import itertools
-sys.path.insert(0,"./Misc/MathUtils/")
+sys.path.insert(0,"../Misc/MathUtils/")
 import miller_rabin_prime
 
 def include(filename):
