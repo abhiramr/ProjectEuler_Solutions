@@ -7,7 +7,7 @@ Rules for contribution -
  - Fork this Repo and modify a solution or add your own solution with your name and Github handle as a comment on the first two lines.
  - Submit a PR to this repo and it will be reviewed and Merged.
  - Add your name and the number of problems you've contributed in the README.MD file below the existing content under "Contributors". Keep incrementing the number as and when you add more solutions. 
- - Additionally, each solution should follow the existing pattern - num<problem_num_perProjectEulerArchives>_<yourname>.(py|ipynb|.R)
+ - Additionally, each solution should follow the existing pattern - num<problem_num_perProjectEulerArchives>__(yourname).(py|ipynb|.R)
  - Extra points for methodology/ time taken explained/mentioned in comments.
  
 
