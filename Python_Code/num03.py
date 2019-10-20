@@ -34,5 +34,5 @@ def prime_factors(n):
 
 
 # trial_division(int(input()))
-#print(factorize(int(input())))
-prime_factors(int(input()))
+print(factorize(int(input())))
+#prime_factors(int(input()))
