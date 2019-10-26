@@ -10,7 +10,7 @@ Rest assured, going forward, I will be logging each and every one of my solution
 Update - Jan 29 2018
 Current status on ProjectEuler - 45 problems solved. 
 
-Current code status on Github  - 25 problems logged with code.
+Current code status on Github  - 27 problems logged with code.
 
 Want to contribute? Check this out - https://github.com/abhiramr/ProjectEuler-Abhi/blob/master/CONTRIBUTING.md
 
